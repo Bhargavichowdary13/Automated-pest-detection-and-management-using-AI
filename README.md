@@ -5,6 +5,7 @@ pest images:
 [https://universe.roboflow.com/aimit-b7yve/pests-in-cucumber-plants-jegly](url)
 
 Star method for this project:
+
 Situation:
 Agricultural productivity is significantly affected by pest infestations, leading to crop damage and financial losses. Traditional pest detection methods are manual, time-consuming, and require expert intervention, which is impractical for large-scale farming.
 
